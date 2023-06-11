@@ -7,4 +7,4 @@
 Установить cypress (в гитбаше): npm install cypress --save-dev
 Запускать автотесты командой npm run start
 Все новые тесты нужно писать в папке /e2e
-<br/>
+<br />
